@@ -18,3 +18,4 @@ Para crear la cinemática inversa fue similar a la anterior, con la excepción q
 ## Animación
 La animación del cubo por defecto de blender tiene en cuenta el principio de la anticipación y el estirar y encoger objetos para dar la sensación de velocidad, también se uso la aceleración para tener movimientos más fluídos 
 Para animat este modelo se usó inicialmente solo keyframes directamente transformando el cubo, pero para la segunda parte se usaron 'Armatures' para poder tener la capacidad de deformar el cubo con mayor libertad
+![](animacion.gif)
