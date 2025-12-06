@@ -1,0 +1,14 @@
+{
+  "name": "threejs-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "three": "0.154.0"
+  }
+}
